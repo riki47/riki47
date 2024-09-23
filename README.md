@@ -5,9 +5,9 @@
 <h3 align="center">Building Solutions with Data Structures, Algorithms, and AI Insights</h3>
 
 <p align="center"><img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"></p>
-<p align="center">🌱 I’m currently learning **DSA, Data Analysis and AI/ML**</p>
+<p align="center">🌱 I’m currently learning DSA, Data Analysis and AI/ML</p>
 
- <p align="center">📫 How to reach me **rk47dev@gmail.com**</p>
+ <p align="center">📫 You can reach me through email : rk47dev@gmail.com</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
