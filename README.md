@@ -5,7 +5,7 @@
 <h3 align="center">Building Solutions with Data Structures & Crafting seamless web experiences with code, creativity, and performance!</h3>
 
 <p align="center"><img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"></p>
-<p align="center">🌱 I’m currently learning DSA and Front-End web develoupment</p>
+<p align="center">🌱 I’m currently learning DSA and Front-End web development</p>
 
  <p align="center">📫 You can reach me through email : rk47dev@gmail.com</p>
 
